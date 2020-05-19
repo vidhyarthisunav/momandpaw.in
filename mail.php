@@ -112,9 +112,9 @@ if(strlen($_REQUEST['email'])>0){
       </tr>
       <tr class="m_-3201832358163851173content-row" style="border-color:transparent">
       <td class="m_-3201832358163851173gutter" style="border-collapse:collapse;border-color:transparent;width:70px!important" width="70" height="100%"></td>
-      <td class="m_-3201832358163851173content-cell" width="460" style="border-collapse:collapse;color:#fff;border-color:transparent;vertical-align:top" valign="top">
-      <p style="font-size:inherit;line-height:1.5;margin:0 0 10px;color:#fff;font-family:&quot;Segoe UI&quot;,Segoe,&quot;Avenir Next&quot;,&quot;Open Sans&quot;,sans-serif;font-weight:normal;padding:0"><span style="font-size:16px">Thank you for expressing your trust in us. We worked with a veterinary nutritionist to formulate a more nutritious dog food, packed with human-grade ingredients that have real health benefits.</span></p>
-      <p style="font-size:inherit;line-height:1.5;margin:0 0 10px;color:#fff;font-family:&quot;Segoe UI&quot;,Segoe,&quot;Avenir Next&quot;,&quot;Open Sans&quot;,sans-serif;font-weight:normal;padding:0"><span style="font-size:16px">We&#39;ve successfully received your form submission and are working on a customised diet plan for your doggie! We&#39;ll be in touch shortly.</span></p>
+      <td class="m_-3201832358163851173content-cell" width="460" style="border-collapse:collapse;color:#fff !important;border-color:transparent;vertical-align:top" valign="top">
+      <p style="font-size:inherit;line-height:1.5;margin:0 0 10px;color:#fff !important;font-family:&quot;Segoe UI&quot;,Segoe,&quot;Avenir Next&quot;,&quot;Open Sans&quot;,sans-serif;font-weight:normal;padding:0"><span style="font-size:16px">Thank you for expressing your trust in us. We worked with a veterinary nutritionist to formulate a more nutritious dog food, packed with human-grade ingredients that have real health benefits.</span></p>
+      <p style="font-size:inherit;line-height:1.5;margin:0 0 10px;color:#fff !important;font-family:&quot;Segoe UI&quot;,Segoe,&quot;Avenir Next&quot;,&quot;Open Sans&quot;,sans-serif;font-weight:normal;padding:0"><span style="font-size:16px">We&#39;ve successfully received your form submission and are working on a customised diet plan for your doggie! We&#39;ll be in touch shortly.</span></p>
       </td>
       <td class="m_-3201832358163851173gutter" style="border-collapse:collapse;border-color:transparent;width:70px!important" width="70" height="100%"></td>
       </tr>

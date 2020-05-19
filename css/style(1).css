@@ -2053,7 +2053,7 @@ figure figcaption {
       right: 0;
       align-items: center;
       /* border-right: 4px solid transparent; */
-      background-image: url(bowl-ingredients-2ff5c1.jpg);
+      background-image: url(../content/bowl-ingredients-2ff5c1.jpg) !important;
       background-size: cover;
       background-position: top right;
   }
@@ -2064,7 +2064,7 @@ figure figcaption {
     right: 0;
     align-items: center;
     /* border-right: 4px solid transparent; */
-    background-image: url(bowl-ingredients-2ff5c1.jpg);
+    background-image: url(../content/bowl-ingredients-2ff5c1.jpg) !important;
     background-size: 400px 400px;
     background-position: top right;
 }
@@ -2074,7 +2074,7 @@ figure figcaption {
       right: 0;
       width: 100%;
       border-left: 4px solid white;
-      background-image: url(bowl-mixed-515e18.jpg);
+      background-image: url(../content/bowl-mixed-515e18.jpg) !important;
       background-size: cover;
       background-position: top right;
   }
@@ -2083,7 +2083,7 @@ figure figcaption {
     right: 0;
     width: 100%;
     border-left: 4px solid white;
-    background-image: url(bowl-mixed-515e18.jpg);
+    background-image: url(../content/bowl-mixed-515e18.jpg) !important;
     background-size: 400px 400px;
     background-position: top right;
 }

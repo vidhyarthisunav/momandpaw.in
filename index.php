@@ -26,7 +26,7 @@
     <link rel="stylesheet" href="./css/style(1).css">
     
   </head>
-  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0" data-gr-c-s-loaded="true">
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section-fresh-pet-food" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0" data-gr-c-s-loaded="true">
   
 
   <div id="overlayer" style="display: none;"></div>
@@ -68,11 +68,11 @@
               <nav class="site-navigation position-relative text-right" role="navigation">
 
                 <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                  <li><a href="#home-section" class="nav-link active">Home</a></li>
+                  <li><a href="#home-section-fresh-pet-food" class="nav-link active">Home</a></li>
                                   
-                  <li><a href="#faq-section" class="nav-link">FAQ</a></li>
+                  <li><a href="#faq-section-fresh-pet-food" class="nav-link">FAQ</a></li>
 
-                  <li><a href="#contact-section" class="nav-link">Contact</a></li>
+                  <li><a href="#contact-section-fresh-pet-food" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
             </div>
@@ -294,7 +294,7 @@
       </div>
     </section>
     <div class="d-sm-none">
-      <section class="site-section" id="about-section" style="background-image:url(content/ingredients-bg@3x.jpg); background-repeat: no-repeat; background-size: cover; min-width: 100%; min-height: 100%;">
+      <section class="site-section" id="about-section" style="background-image:url(./content/ingredients-bg@3x.jpg); background-repeat: no-repeat; background-size: cover; min-width: 100%; min-height: 100%;">
         <div class="container">
           <div class="row mt-5 justify-content-center aos-init" data-aos="fade-up">
             <div class="col-lg-12 mt-5 align-self-center mr-auto text-center heading-section mb-5">
@@ -309,7 +309,7 @@
                   <p class="text-muted mb-4">Gently cooked to preserve their nutrients</p>
                 </li>
               </ul>
-              <a href="#contact-section">
+              <a href="#contact-section-fresh-pet-food">
                 <button class="btn btn-primary">Contact us to order your pet's first meal</button>
               </a>
             </div>
@@ -318,7 +318,7 @@
       </section>
     </div>
     <div class="d-none d-md-block">
-      <section class="site-section" id="about-section" style="background-image:url(ingredients-bg@2x.jpg); background-repeat: no-repeat; background-size: cover; min-width: 100%; min-height: 100%;">
+      <section class="site-section" id="about-section" style="background-image:url(./content/ingredients-bg@2x.jpg); background-repeat: no-repeat; background-size: cover; min-width: 100%; min-height: 100%;">
         <div class="container">
           <div class="row mt-5 justify-content-center aos-init" data-aos="fade-up">
             <div class="col-lg-12 mt-5 align-self-center mr-auto text-center heading-section mb-5">
@@ -333,7 +333,7 @@
                   <p class="text-muted mb-4">Gently cooked to preserve their nutrients</p>
                 </li>
               </ul>
-              <a href="#contact-section">
+              <a href="#contact-section-fresh-pet-food">
                 <button class="btn btn-primary">Contact us to order your pet's first meal</button>
               </a>
             </div>
@@ -342,7 +342,7 @@
       </section>
     </div>
 
-    <section class="site-section bg-light trainers" id="faq-section">
+    <section class="site-section bg-light trainers" id="faq-section-fresh-pet-food">
       <div class="container" id="accordion">
         <div class="row justify-content-center aos-init" data-aos="fade-up">
           <div class="col-lg-7 text-center heading-section mb-5">
@@ -418,7 +418,7 @@
           </div>
         </div>
       </div>
-      <div id="contact-section""></div>
+      <div id="contact-section-fresh-pet-food""></div>
     </section>
 
     <section>
@@ -556,9 +556,9 @@
           <div class="col-12 col-md-2">
             <h2 class="footer-heading mb-4">Quick Links</h2>
             <ul class="list-unstyled">
-              <li><a href="#home-section" class="smoothscroll">Home</a></li>
-              <li><a href="#faq-section" class="smoothscroll">FAQ</a></li>
-              <li><a href="#contact-section" class="smoothscroll">Contact Us</a></li>
+              <li><a href="#home-section-fresh-pet-food" class="smoothscroll">Home</a></li>
+              <li><a href="#faq-section-fresh-pet-food" class="smoothscroll">FAQ</a></li>
+              <li><a href="#contact-section-fresh-pet-food" class="smoothscroll">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
@@ -593,7 +593,7 @@
   <script src='./scripts/tabletop.min.js'></script>
   <script src="./scripts/jquery-3.3.1.min.js"></script>
   <script src="./scripts/jquery-ui.js"></script>
-  <script src="./cscripts/popper.min.js"></script>
+  <script src="./scripts/popper.min.js"></script>
   <script src="./scripts/bootstrap.min.js"></script>
   <script src="./scripts/owl.carousel.min.js"></script>
   <script src="./scripts/jquery.countdown.min.js"></script>
@@ -601,7 +601,7 @@
   <script src="./scripts/aos.js"></script>
   <script src="./scripts/jquery.fancybox.min.js"></script>
   <script src="./scripts/jquery.sticky.js"></script>
-  <script type='text/javascript'>    
+  <script type='text/javascript'>
 
   function sendText(){
 
