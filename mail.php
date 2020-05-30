@@ -1,9 +1,8 @@
 <?php
 
-require_once "vendor/autoload.php";
-use PHPMailer\PHPMailer\PHPMailer;
+  require_once "vendor/autoload.php";
+  use PHPMailer\PHPMailer\PHPMailer;
 
-if(strlen($_REQUEST['email'])>0){
   $mail = new PHPMailer;
   $mail->isSMTP();
   $mail->SMTPDebug = 0;
@@ -17,7 +16,7 @@ if(strlen($_REQUEST['email'])>0){
 
   $mail->From = 'petcare@momandpaw.in';
   $mail->FromName = 'MOM & PAW';
-  $mail->addAddress($_REQUEST['email'], $_REQUEST['name']);
+  $mail->addAddress('vidhyarthisunav@gmail.com', 'sunav');
 
   $mail->addReplyTo('petcare@momandpaw.in', 'reply');
 
@@ -170,15 +169,7 @@ if(strlen($_REQUEST['email'])>0){
       </div></td></tr></tbody></table></td></tr></tbody></table></div></div><div dir="ltr" class="gmail_signature" data-smartmail="gmail_signature"><div dir="ltr"><div><div dir="ltr"></div></div></div></div></div>
       ';
   if(!$mail->send()) {
-    echo '<script type="text/javascript"> alert("Please check the email you`ve entered and try again"); return false; </script>;';
-    header("Location: index.php");
-    return;
-}
-    header("Location: index.php");
-    return;
-}
-else{
-  header("Location: index.php");
+    echo '<script type="text/javascript"> alert("Please check the email you`ve entered and try again"); return false; </script>';
+  }
   return;
-}
 ?>

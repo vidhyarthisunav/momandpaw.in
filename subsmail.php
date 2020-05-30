@@ -25,13 +25,7 @@ use PHPMailer\PHPMailer\PHPMailer;
   $mail->isHTML(true);
 
   $mail->Subject = "You have successfully subscribed to our newsletter!";
-  $mail->Body    = "Hi,<br/><br/> 
-
-  Thanks for being awesome! You`re succesfully subscribed to our newsletter! <br/><br/> 
-
-  Looking forward to get your first order,<br/><br/>
-
-  Team Mom and Paw";
+  $mail->Body    = "Hi,<br/><br/>Thanks for being awesome! You`re succesfully subscribed to our newsletter! <br/><br/>Looking forward to get your first order,<br/><br/>Team Mom and Paw";
   if(!$mail->send()) {
     echo 'Mail not sent';
     exit;

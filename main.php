@@ -1,32 +1,56 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>Mom &amp; Paw | Freshly Prepared Dog Food Delivery</title>
+	
+	<title>Mom and Paw | Freshly Prepared Dog Food Online Delivery</title>
+	  
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	  
+	<meta name = "keywords" content = "vet approved homemade dog food, homemade dog food india, where to order dog food online, 
+  order dog food,doggie food ,doggy food, cooked dog food deliver, best fresh dog food delivery, pet foods, pet food home delivery, 
+  fresh dog food, dog food delivery, home cooked meals, Gurgaon and Delhi/NCR, box food, dog food, home delivery, 
+  dog food delivery, dog food dog, pet food delivery, food of dog, fresh dog food delivery india, my fresh box, cooked diet for dogs,
+  dog food home delivery gurgaon, online food for dogs, dog food online, food for pet, fresh dog food,fresh pet ingredients,
+  dog food prices, natural dog food, dog food natural, all natural dog food, healthy dog food, home cooked food for puppies"/>
     
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="description" content="Mom and Paw is an innovative pet health & wellness brand providing dogs with fresh, human-grade 	meals, delivered directly to consumers. Our mission is to deliver freshly prepared meals for your dog made with Mother's love"/>
+	  
+	<meta name="google-site-verification" content="BdfjGZ2ihGntbLX4u6mfUzbK5TV_iXfB5adbjArurYg" />
+	  
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  
+  <link rel="icon" href="./content/printed.png"/>
+  <link rel="stylesheet" href="./css/style.css">
+  
 
-    <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./css/bootstrap.min.css">
+  <link rel="stylesheet" href="./css/jquery-ui.css">
+  <link rel="stylesheet" href="./css/owl.carousel.min.css">
+  <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="./css/owl.theme.default.min.css">
 
-    <link rel="stylesheet" href="./css/bootstrap.min.css">
-    <link rel="stylesheet" href="./css/jquery-ui.css">
-    <link rel="stylesheet" href="./css/owl.carousel.min.css">
-    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="./css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="./css/jquery.fancybox.min.css">
 
-    <link rel="stylesheet" href="./css/jquery.fancybox.min.css">
+  <link rel="stylesheet" href="./css/bootstrap-datepicker.css">
 
-    <link rel="stylesheet" href="./css/bootstrap-datepicker.css">
+  <link rel="stylesheet" href="./css/flaticon.css">
 
-    <link rel="stylesheet" href="./css/flaticon.css">
+  <link rel="stylesheet" href="./css/aos.css">
 
-    <link rel="stylesheet" href="./css/aos.css">
+  <link rel="stylesheet" href="./css/style(1).css">
 
-    <link rel="stylesheet" href="./css/style(1).css">
-    
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-167457966-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-167457966-1');
+  </script>
+  
   </head>
-  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-section-fresh-pet-food" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0" data-gr-c-s-loaded="true">
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300" id="home-fresh-pet-food" data-aos-easing="slide" data-aos-duration="800" data-aos-delay="0" data-gr-c-s-loaded="true">
   
 
   <div id="overlayer" style="display: none;"></div>
@@ -59,7 +83,7 @@
             <div class="col-6 col-xl-2">
               <h3 class="mb-0 mt-2 site-logo">
                 <a href="http://momandpaw.in">
-                  <img src="./content/logo-3-removebg.png" href="momandpaw.in" style="width: 180px;" alt="">
+                  <img src="./content/logo-3-removebg.png" href="momandpaw.in" style="width: 180px;" alt="Mom and Paw - fresh pet food - logo - pet food delivery - Gurgaon - NCR">
                 </a>
               </h3>
             </div>
@@ -68,11 +92,11 @@
               <nav class="site-navigation position-relative text-right" role="navigation">
 
                 <ul class="site-menu main-menu js-clone-nav mr-auto d-none d-lg-block">
-                  <li><a href="#home-section-fresh-pet-food" class="nav-link active">Home</a></li>
+                  <li><a href="#home-fresh-pet-food" class="nav-link active">Home</a></li>
                                   
-                  <li><a href="#faq-section-fresh-pet-food" class="nav-link">FAQ</a></li>
+                  <li><a href="#faq-fresh-pet-food" class="nav-link">FAQ</a></li>
 
-                  <li><a href="#contact-section-fresh-pet-food" class="nav-link">Contact</a></li>
+                  <li><a href="#contact-fresh-pet-food" class="nav-link">Contact</a></li>
                 </ul>
               </nav>
             </div>
@@ -88,11 +112,11 @@
           <div class="col-md-7 align-self-center text-center text-md-left">
             <div class="intro-text">
               <h1>Healthy, Fresh <span class="d-md-block">food for dogs</span></h1>
-              <p class="mb-4">We believe what’s good for people is good for pets too. Think about it — what gets YOU going? Real, fresh food made just for you, or something else that’s just ... not?<span class="d-block"> Real food . Made fresh . Delivered</span></p>
+              <p class="mb-4">We believe what’s good for people is good for pets too. Think about it — what gets YOU going? Real, fresh food made just for you and delivered to your doorstep, or something else that’s just ... not?<span class="d-block"> Real food . Made fresh . Delivered</span></p>
             </div>
           </div>
           <div class="col-md-5 align-self-end text-center text-md-right">
-            <img src="./content/dogger_img_1.png" alt="Image" class="img-fluid cover-img">
+            <img src="./content/dogger_img_1.png" alt="Mom and Paw - dog - dog food - fresh pet food - delivery" class="img-fluid cover-img">
           </div>
         </div>
       </div>
@@ -105,8 +129,8 @@
             <div class="paws">
               <span class="icon-paw"></span>
             </div>
-            <h2 class="text-black mb-2">Welcome to Mom &amp; Paw</h2>
-            <p>Like you, we love our pets and care about their health. That’s why we created Mom &amp; Paw — a service that delivers balanced, freshly made pet food with simple recipes, guided by science, and driven by love.</p>
+            <h2 class="text-black mb-2">Welcome to Mom and Paw</h2>
+            <p>Like you, we love our pets and care about their health. That’s why we created Mom and Paw — a service that makes and delivers balanced, freshly made and healthy pet food with simple recipes, guided by science, and driven by love.</p>
           </div>
         </div>
         
@@ -140,8 +164,8 @@
           
             <div class="col-md-6" data-aos-delay="200">
               <div class="Bowl">
-                <div class="raw pl-4"></div>
-                <div class="cook" id="harry" ></div>
+                <div class="raw pl-4" title="ingredients - fresh pet food - Mom and paw - healthy pet food - pets"></div>
+                <div class="cook" id="harry" title="pet food - cooked food - healthy pets - fresh pet food - homemade"></div>
               </div>  
             </div>
 
@@ -241,8 +265,8 @@
           
           <div class="row" data-aos-delay="200">
             <div class="Bowl1">
-              <div class="raw1 pl-4"></div>
-              <div class="cook1" id="harry1" ></div>
+              <div class="raw1 pl-4" title="ingredients - fresh pet food - Mom and paw - healthy pet food - pets"></div>
+              <div class="cook1" id="harry1" title="pet food - cooked food - healthy pets - fresh pet food - homemade"></div>
             </div>  
           </div>
         </div>
@@ -264,10 +288,10 @@
           <div class="col-md-6 mb-4 col-lg-4 aos-init" data-aos="fade-up" data-aos-delay="">
             <div class="trainer">
               
-              <img src="./content/plan-step-1.svg" alt="Image" class="img-fluid">
+              <img src="./content/plan-step-1.svg" alt="personalized - cooked food - homemade dog food - dog food delivery" class="img-fluid">
               <div class="px-md-3">
                 <h3>Personalized</h3>
-                <p>Share your pet’s unique personal characteristics and we’ll craft the perfect meal plan for a healthy diet.</p>
+                <p>Share your pet’s unique personal characteristics and we’ll craft the perfect and vet-approved meal plan for a healthy diet.</p>
               </div>
             </div>
           </div>
@@ -276,7 +300,7 @@
               <img src="./content/plan-step-2.svg" alt="Image" class="img-fluid">
               <div class="px-md-3">
                 <h3>Cooked &amp; Delivered</h3>
-                <p>Perfectly portioned meals made with human-grade ingredients, frozen to lock in the freshness and delivered in insulated boxes at a time that suits you.</p>
+                <p>Perfectly portioned fresh pet food meals made with human-grade ingredients, frozen to lock in the freshness and delivered in insulated boxes at a time that suits you.</p>
               </div>
             </div>
           </div>
@@ -286,7 +310,7 @@
               <img src="./content/plan-step-3.svg" alt="Image" class="img-fluid">
               <div class="px-md-3">
                 <h3>Serve</h3>
-                <p>Just open the pouch and dish out their ready-to-eat meal. Keep remaining packets in the fridge to defrost before feeding and then thaw before serving to your pet.</p>
+                <p>Just open the pack and dish out their ready-to-eat meal. Keep the remaining packs in the fridge to defrost before feeding and then defrost thaw before serving to your pet.</p>
               </div>
             </div>
           </div>
@@ -294,7 +318,7 @@
       </div>
     </section>
     <div class="d-sm-none">
-      <section class="site-section" id="about-section" style="background-image:url(./content/ingredients-bg@3x.jpg); background-repeat: no-repeat; background-size: cover; min-width: 100%; min-height: 100%;">
+      <section class="site-section" id="about-section" title="healthy - pet food delivery - Delhi/NCR - Gurgaon - fresh pet food" title="healthy - pet food delivery - Delhi/NCR - Gurgaon - fresh pet food" style="background-image:url(./content/ingredients-bg@3x.jpg); background-repeat: no-repeat; background-size: cover; min-width: 100%; min-height: 100%;">
         <div class="container">
           <div class="row mt-5 justify-content-center aos-init" data-aos="fade-up">
             <div class="col-lg-12 mt-5 align-self-center mr-auto text-center heading-section mb-5">
@@ -302,14 +326,14 @@
               <ul class="list-unstyled primary mb-0">
                 <li>
                   <h5 class="">High-quality meat</h5>
-                  <p class="text-muted mb-4">Sourced from family-run farms in the India</p>
+                  <p class="text-muted mb-4">Sourced from family-run farms in India</p>
                 </li>
                 <li>
                   <h5 class="heading">Fruits and veggies</h5>
-                  <p class="text-muted mb-4">Gently cooked to preserve their nutrients</p>
+                  <p class="text-muted mb-4">Gently cooked to preserve the nutrients</p>
                 </li>
               </ul>
-              <a href="#contact-section-fresh-pet-food">
+              <a href="#contact-fresh-pet-food">
                 <button class="btn btn-primary">Contact us to order your pet's first meal</button>
               </a>
             </div>
@@ -326,14 +350,14 @@
               <ul class="list-unstyled primary mb-0">
                 <li>
                   <h5 class="">High-quality meat</h5>
-                  <p class="text-muted mb-4">Sourced from family-run farms in the India</p>
+                  <p class="text-muted mb-4">Sourced from family-run farms in India</p>
                 </li>
                 <li>
                   <h5 class="heading">Fruits and veggies</h5>
-                  <p class="text-muted mb-4">Gently cooked to preserve their nutrients</p>
+                  <p class="text-muted mb-4">Gently cooked to preserve the nutrients</p>
                 </li>
               </ul>
-              <a href="#contact-section-fresh-pet-food">
+              <a href="#contact-fresh-pet-food">
                 <button class="btn btn-primary">Contact us to order your pet's first meal</button>
               </a>
             </div>
@@ -342,7 +366,7 @@
       </section>
     </div>
 
-    <section class="site-section bg-light trainers" id="faq-section-fresh-pet-food">
+    <section class="site-section bg-light trainers" id="faq-fresh-pet-food">
       <div class="container" id="accordion">
         <div class="row justify-content-center aos-init" data-aos="fade-up">
           <div class="col-lg-7 text-center heading-section mb-5">
@@ -355,7 +379,7 @@
         </div>
         <div class="row accordion justify-content-center block__76208">
           <div class="col-sm-12 col-lg-6 order-lg-2 mb-5 mb-lg-0 aos-init mt-0 " data-aos="fade-up" data-aos-delay="">
-            <img src="./content/dogger_img_sm_1-removebg.png" height="250" alt="Image" class="center" >
+            <img src="./content/dogger_img_sm_1-removebg.png" height="250" alt="dog food delivery - fresh pet food - Mom and Paw - home delivery Gurgaon - pet food" class="center" >
           </div>
           <div class="col-lg-5 order-lg-1 aos-init" data-aos="fade-up" data-aos-delay="100">
             <div class="accordion-item">
@@ -376,7 +400,7 @@
               </h3>
               <div id="collapseSix" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="body-text">
-                  <p class="white">We work closely with vets to figure out the optimal meal plans for different combinations of the breed, age, activity level, ideal weight, and sensitivities. That way, we can ask you the right questions to create a plan that’s truly customized to your dogs’ characteristics and needs. After you start, our trusty team is here every step of the way to help monitor your dog’s progress and make adjustments to your plan.</p>
+                  <p class="white">We work closely with vets to figure out the optimal meal plans for different combinations of the breed, age, activity level, ideal weight, and sensitivities which are approved by vets and nutritionists. That way, we can ask you the right questions to create a plan that’s truly customized to your dogs’ characteristics and needs. After you start, our trustworthy team is here every step of the way to help monitor your dog’s progress and make adjustments to your plan.</p>
                 </div>
               </div>
             </div> <!-- .accordion-item -->
@@ -398,7 +422,7 @@
               </h3>
               <div id="collapseTen" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="body-text">
-                  <p class="white">You can! But recent research found 95% of recipes online to be lacking in crucial nutrients for dogs. Serious complications from nutrient deficiencies (and, more commonly, overdosing) could arise if a recipe hasn’t been properly calibrated. That's why Mom & Paw's recipes were formulated by veterinarians and animal nutritionists – so that you can sleep easy, knowing your pet is getting exactly what they need.
+                  <p class="white">You can! But recent research found 95% of recipes online to be lacking in crucial nutrients for dogs. Serious complications from nutrient deficiencies (and, more commonly, overdosing) could arise if a recipe hasn’t been properly calibrated. That's why Mom and Paw's recipes were formulated by veterinarians and animal nutritionists – so that you can sleep easy, knowing your pet is getting exactly what they need.
                   </p>
                 </div>
               </div>
@@ -406,7 +430,7 @@
 
             <div class="accordion-item">
               <h3 class="mb-0 heading">
-                <a class="btn-block" data-toggle="collapse" href="#collapseNine" role="button" aria-expanded="false" aria-controls="collapseNine" style="color: #405a58;">Is Mom &amp; Paw fresh food suitable for puppies?<span class="icon"></span></a>
+                <a class="btn-block" data-toggle="collapse" href="#collapseNine" role="button" aria-expanded="false" aria-controls="collapseNine" style="color: #405a58;">Is Mom and Paw fresh food suitable for puppies?<span class="icon"></span></a>
               </h3>
               <div id="collapseNine" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
                 <div class="body-text">
@@ -418,7 +442,7 @@
           </div>
         </div>
       </div>
-      <div id="contact-section-fresh-pet-food""></div>
+      <div id="contact-fresh-pet-food""></div>
     </section>
 
     <section>
@@ -428,27 +452,35 @@
             <form id="contactform" method="post" action="mail.php" class="p-5 contact-form" onsubmit="return sendText(event)"
               
               <h2 class="h4 mb-5 heading">Contact us to discuss your pet's diet..</h2> 
-              
+
               <div class="row form-group">
-                <div class="col-md-6">
+                <div class="col-md-12">
                   <label for="parentname">Pet Parent Name</label> 
-                  <input type="text" id="parentname" class="form-control" name="name">
-                </div>
-                <div class="col-md-6">
-                  <label for="petname">Pet Name</label> 
-                  <input type="text" id="petname" class="form-control">
+                  <input type="text" id="parentname" class="form-control" name="name" required>
                 </div>
               </div>
 
               <div class="row form-group">
                 <div class="col-md-6">
-                  <label for="age">Age of Pet</label>
+                  <label for="petname">Pet's Name</label> 
+                  <input type="text" id="petname" class="form-control">
+                </div>
+                <div class="col-md-6">
+                  <label for="age">Pet's Age (Months)</label>
                   <input type="text" id="age" class="form-control">
+                </div>
+              </div>
+
+              <div class="row form-group">
+                <div class="col-md-6">
+                  <label for="weight">Pet's Weight (kgs)</label>
+                  <input type="text" id="weight" class="form-control">
                 </div>
                 <div class="col-md-6">
                   <div>
                     <label for="breed">Pet's Breed</label> 
                     <select id="breed" class="form-control" onchange='checkvalue(this.value)'>
+                      <option value="Not Selected">Select</option>
                       <option value="Beagle">Beagle</option>
                       <option value="Boxer">Boxer</option>
                       <option value="Dachshund">Dachshund</option>
@@ -476,7 +508,7 @@
               <div class="row form-group">
                 <div class="col-md-12">
                   <label for="email">Email</label>
-                  <input type="email" id="email" class="form-control" name="email">
+                  <input type="email" id="email" class="form-control" name="email" required>
                 </div>
               </div>
 
@@ -518,7 +550,7 @@
                   <ul class="list-unstyled text-left address">
                     <li>
                       <span class="d-block">Address:</span>
-                      <p>Hauz Khas Enclave, Hauz Khas, New Delhi, Delhi 110016</p>
+                      <p>Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002</p>
                     </li>
                     <li>
                       <span class="d-block">Email:</span>
@@ -530,7 +562,7 @@
                   <ul class="list-unstyled text-center address">
                     <li>
                       <span class="d-block">Address:</span>
-                      <p>Hauz Khas Enclave, Hauz Khas, New Delhi, Delhi 110016</p>
+                      <p>Cyber City, DLF Phase 2, Sector 24, Gurugram, Haryana 122002</p>
                     </li>
                     <li>
                       <span class="d-block">Email:</span>
@@ -551,14 +583,14 @@
         <div class="row">
           <div class="col-12 col-md-4">
             <h2 class="footer-heading mb-4">About Us</h2>
-            <p>Mom & Paw is an innovative pet health & wellness brand providing dogs with fresh, human-grade meals, delivered directly to consumers. Our mission is to deliver freshly prepared meals for your dog made with Mother's love.</p>
+            <p>Mom and Paw is an innovative pet health & wellness brand providing dogs with fresh, human-grade meals, delivered directly to consumers. Our mission is to deliver freshly prepared meals for your dog made with Mother's love.</p>
           </div>
           <div class="col-12 col-md-2">
             <h2 class="footer-heading mb-4">Quick Links</h2>
             <ul class="list-unstyled">
-              <li><a href="#home-section-fresh-pet-food" class="smoothscroll">Home</a></li>
-              <li><a href="#faq-section-fresh-pet-food" class="smoothscroll">FAQ</a></li>
-              <li><a href="#contact-section-fresh-pet-food" class="smoothscroll">Contact Us</a></li>
+              <li><a href="#home-fresh-pet-food" class="smoothscroll">Home</a></li>
+              <li><a href="#faq-fresh-pet-food" class="smoothscroll">FAQ</a></li>
+              <li><a href="#contact-fresh-pet-food" class="smoothscroll">Contact Us</a></li>
             </ul>
           </div>
           <div class="col-12 col-md-3">
@@ -566,7 +598,8 @@
             <a href="#" class="pl-0 pr-3 social-link"><span class="icon-facebook"></span></a>
             <a href="#" class="pl-3 pr-3 social-link"><span class="icon-twitter"></span></a>
             <a href="#" class="pl-3 pr-3 social-link"><span class="icon-instagram"></span></a>
-            <a href="#" class="pl-3 pr-3 social-link"><span class="icon-linkedin"></span></a>
+            <a href="https://www.youtube.com/channel/UCqnrfnWKOp5x8R1b__JUVIQ" class="pl-3 pr-3 social-link" target="_blank"><span class="icon-youtube"></span></a>
+            <a href="https://in.pinterest.com/MomandPaw_India/" class="pl-3 pr-3 social-link" target="_blank"><span class="icon-pinterest"></span></a>
           </div>
           <div class="col-12 col-md-3">
             <div class="d-sm-none">
@@ -587,9 +620,7 @@
         </div>
       </div>
     </footer>
-      
-
-  </div> <!-- .site-wrap -->
+  </div>
   <script src='./scripts/tabletop.min.js'></script>
   <script src="./scripts/jquery-3.3.1.min.js"></script>
   <script src="./scripts/jquery-ui.js"></script>
@@ -601,62 +632,7 @@
   <script src="./scripts/aos.js"></script>
   <script src="./scripts/jquery.fancybox.min.js"></script>
   <script src="./scripts/jquery.sticky.js"></script>
-  <script type='text/javascript'>
-
-  function sendText(){
-
-      if(document.getElementById('parentname').value == ''){
-        alert('Parent name is mandatory');
-        return false;
-      }
-
-      if(document.getElementById('email').value == ''){
-        alert('Email is mandatory');
-        return false;
-      }
-
-      var script_url ="https://script.google.com/a/momandpaw.in/macros/s/AKfycby2c20kmqKNMWBPJQbHwV0BBbE9f-_d2DNuybgKAkIr7blQv2Kp/exec";
-      
-      var parentname  = document.getElementById('parentname').value;
-      var petname = document.getElementById('petname').value;
-      var age  = document.getElementById('age').value;
-      var breed = document.getElementById('breed').value;
-      if(breed == 'otherbreed')
-        breed = document.getElementById('dogbreed').value;
-
-      var email = document.getElementById('email').value;
-      var contactnumber = document.getElementById('contactnumber').value;
-      var city = document.getElementById('city').value;
-      var comments = document.getElementById('comments').value;
-      
-      var url = script_url + "?callback-ctrl-q&petname=" + petname + "&parentname=" + parentname + "&age=" + age + "&breed=" + breed + "&email=" + email + "&contactnumber=" + contactnumber + "&city=" + city + "&comments=" + comments;
-      var request = jQuery.ajax({
-        crossDomain: true,
-        url : url,
-        method: "GET",
-        dataType: "jsonp"
-      });
-      alert('Thankyou for contacting us!');
-  }
-  function sendSubs(){
-    
-    if(document.getElementById('subs').value == ''){
-        alert('Email must be filled out for subscription');
-        return false;
-      }
-    var script_url ="https://script.google.com/macros/s/AKfycbxZLp7IR2Jfg9jVOZbnfS-0poTZZgtgtL06kkUBNVDom64diHw/exec";
-    
-    var email = document.getElementById('subs').value;
-    var url = script_url + "?callback-ctrl-q&email=" + email;
-    var request = jQuery.ajax({
-      crossDomain: true,
-      url : url,
-      method: "GET",
-      dataType: "jsonp"
-    });
-    alert("You're all set for free tips :)");
-  }
-  </script>
+  <script src="./scripts/googlesheet.js"></script>
   <script src="./scripts/main.js"></script>
 </body>
 </html>
