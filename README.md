@@ -74,14 +74,6 @@ momandpaw.in/
 
 ---
 
-## 💡 Future Enhancements
-- Add database integration (MySQL/PostgreSQL) for storing user data.
-- Include an admin dashboard for form analytics.  
-- Add CI/CD workflow for automated deployment.  
-- Migrate PHP mail handling to a secure mail API (e.g., SendGrid, SES).  
-
----
-
 ## 👩‍💻 Author
 **Sunav Vidhyarthi**  
 [GitHub Profile](https://github.com/vidhyarthisunav)
